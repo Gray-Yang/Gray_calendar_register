@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "406206587591",
+    "project_id": "gray-calendar-2",
+    "storage_bucket": "gray-calendar-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406206587591:android:ea8c2aa0b89b8ac76c54e2",
+        "android_client_info": {
+          "package_name": "com.estech.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406206587591-nvqn9dvctet79jl03hi2beclmvlc289o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwfCZYT3s6Ow3XAyeMOSzLEpHRtkXENY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406206587591-nvqn9dvctet79jl03hi2beclmvlc289o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406206587591-kqp3sh6bifsjv7jeakkqtd5c5batrr0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.estech.calendar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406206587591:android:9644d577e7696c956c54e2",
+        "android_client_info": {
+          "package_name": "com.flybits.flutter.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406206587591-nvqn9dvctet79jl03hi2beclmvlc289o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwfCZYT3s6Ow3XAyeMOSzLEpHRtkXENY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406206587591-nvqn9dvctet79jl03hi2beclmvlc289o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406206587591-kqp3sh6bifsjv7jeakkqtd5c5batrr0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.estech.calendar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
